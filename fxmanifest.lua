@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'Renovax Scripts | Golden Meow (Improved)'
+author 'Mooons'
 description 'Enhanced Trash Bin Looting System for QBCore'
 version '2.0.0'
 
